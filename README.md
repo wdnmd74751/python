@@ -7,5 +7,5 @@
 
 
 关于防反爬：我参考csdn的链家网反爬https://blog.csdn.net/somanybeans/article/details/142498118?fromshare=blogdetail&sharetype=blogdetail&sharerId=142498118&sharerefer=PC&sharesource=ztmdtan&sharefrom=from_link
-            好像没什么用，用动态ip有时候加载不出网页。（也可能是我能力不足）
+            好像没什么用，用动态ip有时候加载不出网页。
 
